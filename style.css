@@ -45,7 +45,8 @@ h1 span{
     font-family: 'Lato', sans-serif;
     font-size: 19px;
     line-height: 1.4;
-    margin-bottom: 42px;  
+    margin-bottom: 42px;
+    
 }
 
 .buy{
@@ -61,6 +62,7 @@ h1 span{
     text-transform: uppercase;
     font-size: 14px;
     font-weight: 700;
+
 }
 
 .visual {
@@ -86,17 +88,25 @@ img {
 }
 
 
+
+
+
 .picture1{
     position: absolute;
     width: 700px;
     height: 466px;
     left: 287px;
     top: 1013px;
+    
+    background: url(bacon-cheese-burger-with-beef-patty-tomato-onion-P2N635W.jpg)
 }
+
 .picture2{
     position: absolute;
     width: 798px;
     height: 532px;
     left: 944px;
     top: 933px;
+    
+    background: url(fresh-tasty-burger-PTESKZ7.jpg) 
 }
